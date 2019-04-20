@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate-Area-Perimeter-Volume", "Calculate-Area-Perimeter-Volume\Calculate-Area-Perimeter-Volume.csproj", "{5037B5BB-0191-49BF-8E3E-79B0347A2A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5037B5BB-0191-49BF-8E3E-79B0347A2A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5037B5BB-0191-49BF-8E3E-79B0347A2A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5037B5BB-0191-49BF-8E3E-79B0347A2A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5037B5BB-0191-49BF-8E3E-79B0347A2A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C430A0F6-4CC4-4B8F-A123-961815F93F80}
+	EndGlobalSection
+EndGlobal
