@@ -25,11 +25,11 @@ namespace Calculate_Area_Perimeter_Volume
                 Console.WriteLine("Enter Height:");
                 height = Double.Parse(Console.ReadLine());//Get height from user.
                 
-                Console.WriteLine("Area: " + (length * width));//Call CalculateArea method and display result
+                Console.WriteLine("Area: " + (length * width));//Display Area
 
-                Console.WriteLine("Perimeter: " + (2 * (length + width)));//Call CalculatePerimeter method and display result
+                Console.WriteLine("Perimeter: " + (2 * (length + width)));//Display Perimeter
 
-                Console.WriteLine("Volume: " + (length * width * height));//Call CalculateVolume and display result
+                Console.WriteLine("Volume: " + (length * width * height));//Display Volume
 
                 Console.WriteLine("Continue? (y/n):");//Does user want to preform calculations again?
                 string response = Console.ReadLine();//Get users response
